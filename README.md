@@ -26,7 +26,6 @@ The appendix is organized for review and reproduction. It includes the questionn
 
 - `qualitative/`
   - `anonymized_quotes.md`: anonymized pilot-study quotes.
-  - `theme_summary.md`: pilot-study theme summary.
   - `coding_table.xlsx`: anonymized coding table.
 
 ## Reproducibility
