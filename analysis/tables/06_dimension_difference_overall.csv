@@ -1,0 +1,2 @@
+﻿test,n,k_dimensions,statistic_chi2,df,p_value,effect_kendalls_w
+Friedman test across four within-subject dimensions,309,4,439.421263791374,3,6.386317841284173e-95,0.47402509578357493

@@ -1,0 +1,28 @@
+﻿variable,construct,item_no,description,type,score_direction
+ID,Identifier,,Respondent identifier from the working Excel file.,numeric identifier,Not a scale score
+Gender,Demographic,,Self-reported gender category retained in the working file.,categorical,Female/Male groups in this dataset
+Continent,Demographic,,Respondent continent category retained in the working file.,categorical,"Asia, Europe, North America, South America, Africa in this dataset"
+Attraction_1,Attraction,1,Visual strikingness and curiosity from unfamiliar Chinese cultural elements.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Attraction_2,Attraction,2,Music or traditional sound effects compelling continued viewing.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Attraction_3,Attraction,3,Large-scale traditional cultural displays stopping scrolling.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Attraction_4,Attraction,4,Modern Chinese city visuals attracting attention.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Resonance_1,Resonance,1,Being moved by scenes or stories in Chinese short videos.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Resonance_2,Resonance,2,Chinese short videos breaking previous stereotypes about China.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Resonance_3,Resonance,3,Universal values in videos striking a chord.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Resonance_4,Resonance,4,Lifestyle scenes inspiring personal plans or reflections.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Resonance_5,Resonance,5,Willingness to search for stories behind memorable people or events.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Retention_1,Retention,1,Clicking creator profile to watch more after an interesting video.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Retention_2,Retention,2,Sharing Chinese-culture short videos with friends or on social media.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Retention_3,Retention,3,Actively searching for updates from a liked Chinese creator.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Retention_4,Retention,4,Reading or joining comments to understand cultural background.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Retention_5,Retention,5,Turning on post notifications for a Chinese creator.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Conversion_1,Conversion,1,Searching specific keywords from videos on external platforms.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Conversion_2,Conversion,2,Purchasing Chinese-related products because of short videos.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Conversion_3,Conversion,3,Practicing or imitating content from Chinese-culture videos.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Conversion_4,Conversion,4,Downloading Chinese local social apps for authentic content.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Conversion_5,Conversion,5,Taking offline action after watching Chinese-culture videos.,Likert-type numeric item,Five-point Likert scale; higher = stronger/more positive engagement
+Attraction_score,Attraction,mean,First-sight visual/audio attention to Chinese-culture short videos.,Scale score,Mean of dimension items; higher = stronger construct score
+Resonance_score,Resonance,mean,"Emotional, cognitive, and value-based resonance with Chinese-culture short videos.",Scale score,Mean of dimension items; higher = stronger construct score
+Retention_score,Retention,mean,"Longer-term stickiness: following, sharing, commenting, and creator tracking.",Scale score,Mean of dimension items; higher = stronger construct score
+Conversion_score,Conversion,mean,"Behavioral conversion: searching, buying, imitating, app use, and offline action.",Scale score,Mean of dimension items; higher = stronger construct score
+Engagement_overall_score,Overall,mean,Mean of the four dimension scores.,Scale score,Higher = stronger overall engagement

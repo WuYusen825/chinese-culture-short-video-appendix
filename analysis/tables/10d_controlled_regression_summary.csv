@@ -1,0 +1,4 @@
+﻿model,formula,n,r_squared,adj_r_squared,f_statistic,f_p_value,aic,bic,covariance
+M1_Resonance_controlled,Resonance_z ~ Attraction_z + C(Gender) + C(Continent),309,0.06798496814699084,0.04946811320951372,3.652621166072016,0.0016229034466092246,868.1468341267699,894.2802230650542,HC3 robust SE
+M2_Retention_controlled,Retention_z ~ Attraction_z + Resonance_z + C(Gender) + C(Continent),309,0.06628790337529478,0.04457366857006906,2.4273368608333503,0.019685827794136888,870.7089668749865,900.5756970901684,HC3 robust SE
+M3_Conversion_controlled,Conversion_z ~ Attraction_z + Resonance_z + Retention_z + C(Gender) + C(Continent),309,0.11783601959887469,0.09431164678817805,5.259984505201893,3.54037014667546e-06,855.1607995748218,888.7608710669015,HC3 robust SE

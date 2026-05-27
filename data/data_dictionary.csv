@@ -1,0 +1,34 @@
+variable,description,type
+ID,Respondent identifier,integer
+Gender,Respondent gender category in derived analysis outputs,category
+Continent,Respondent continent category in source data,category
+Attraction_1,"吸引力五分制李科特量表题项",Likert integer
+Attraction_2,"吸引力五分制李科特量表题项",Likert integer
+Attraction_3,"吸引力五分制李科特量表题项",Likert integer
+Attraction_4,"吸引力五分制李科特量表题项",Likert integer
+Attraction_mean,"吸引力受访者维度均值",numeric
+Attraction_score,"吸引力派生维度得分",numeric
+Resonance_1,"共鸣力五分制李科特量表题项",Likert integer
+Resonance_2,"共鸣力五分制李科特量表题项",Likert integer
+Resonance_3,"共鸣力五分制李科特量表题项",Likert integer
+Resonance_4,"共鸣力五分制李科特量表题项",Likert integer
+Resonance_5,"共鸣力五分制李科特量表题项",Likert integer
+Resonance_mean,"共鸣力受访者维度均值",numeric
+Resonance_score,"共鸣力派生维度得分",numeric
+Retention_1,"维系力五分制李科特量表题项",Likert integer
+Retention_2,"维系力五分制李科特量表题项",Likert integer
+Retention_3,"维系力五分制李科特量表题项",Likert integer
+Retention_4,"维系力五分制李科特量表题项",Likert integer
+Retention_5,"维系力五分制李科特量表题项",Likert integer
+Retention_mean,"维系力受访者维度均值",numeric
+Retention_score,"维系力派生维度得分",numeric
+Conversion_1,"转化力五分制李科特量表题项",Likert integer
+Conversion_2,"转化力五分制李科特量表题项",Likert integer
+Conversion_3,"转化力五分制李科特量表题项",Likert integer
+Conversion_4,"转化力五分制李科特量表题项",Likert integer
+Conversion_5,"转化力五分制李科特量表题项",Likert integer
+Conversion_mean,"转化力受访者维度均值",numeric
+Conversion_score,"转化力派生维度得分",numeric
+FrontEnd_score,Mean of Attraction and Resonance scores,numeric
+BackEnd_score,Mean of Retention and Conversion scores,numeric
+FrontMinusBack_score,FrontEnd_score minus BackEnd_score,numeric

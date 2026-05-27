@@ -1,0 +1,2 @@
+﻿n_complete,n_items,correlation_type,kmo_overall,bartlett_chi_square,bartlett_df,bartlett_p_value,correlation_determinant,efa_extraction,efa_rotation
+309,19,Pearson item correlation,0.7611115140061996,3030.2190553100972,171,0.0,4.22143510541565e-05,principal axis factoring,orthogonal varimax
