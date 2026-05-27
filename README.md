@@ -24,10 +24,6 @@ The appendix is organized for review and reproduction. It includes the questionn
   - `tables/`: descriptive statistics, reliability, dimension-difference tests, group tests, correlations, regression, EFA, and consolidated workbook outputs.
   - `figures/`: exported figures used or available for the report.
 
-- `qualitative/`
-  - `anonymized_quotes.md`: anonymized pilot-study quotes.
-  - `coding_table.xlsx`: anonymized coding table.
-
 ## Reproducibility
 
 The main quantitative workflow can be reproduced from the project root with:
